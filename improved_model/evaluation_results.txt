@@ -1,0 +1,20 @@
+Optimal threshold: 0.25
+
+Accuracy: 0.7718
+Balanced Accuracy: 0.5114
+Matthews Correlation Coefficient: 0.0342
+
+Precision: 0.2368
+Recall: 0.0922
+Specificity: 0.9306
+F1 Score: 0.1327
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        SELL       0.81      0.93      0.87      1254
+         BUY       0.24      0.09      0.13       293
+
+    accuracy                           0.77      1547
+   macro avg       0.53      0.51      0.50      1547
+weighted avg       0.70      0.77      0.73      1547

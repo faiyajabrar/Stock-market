@@ -1,0 +1,12 @@
+PRECISION-FOCUSED EVALUATION
+============================
+
+True Positives: 0
+False Positives: 1
+True Negatives: 1252
+False Negatives: 293
+
+Precision: 0.0000
+Recall: 0.0000
+F1 Score: 0.0000
+False Positive Rate: 0.0008
